@@ -8,7 +8,7 @@ export default function Home() {
     <Layout>
       <section className="flex flex-col items-center">
         <div className="flex">
-          <h1 className="font-bold text-7xl tracking-tight mb-4">React 21</h1>
+          <h1 className="font-bold text-7xl tracking-wide mb-4">React21</h1>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
